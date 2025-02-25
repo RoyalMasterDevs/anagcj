@@ -1,0 +1,7 @@
+1. Recibir el texto a verificar.
+2. Limpiar el texto:
+3. Eliminar espacios, signos de puntuación o caracteres no alfanuméricos.
+4. Convertir todo a minúsculas.
+5. Invertir el texto.
+6. Comparar el texto original (limpiado) con su versión invertida.
+7. Si son iguales, es un palíndromo; de lo contrario no lo es.
