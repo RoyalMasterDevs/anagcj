@@ -1,3 +1,5 @@
+Algoritmo de un palindromo
+
 1. Recibir el texto a verificar.
 2. Limpiar el texto:
 3. Eliminar espacios, signos de puntuación o caracteres no alfanuméricos.
